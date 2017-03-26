@@ -1,6 +1,6 @@
 // Wykrywanie wlasciwosci
 
-if(persona.age) {
+if(person.age) {
   //
 }
 
